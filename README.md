@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity and Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [mandelcohen.com]((https://mandelcohen.com))
+- 👨‍💻 All of my projects are available at [mandelcohen.com](https://mandelcohen.com)
 
 - 📫 How to reach me **info@mandelcohen.com**
 
