@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [mandelcohen.com](https://mandelcohen.com)
 
-- 📫 How to reach me **info@mandelcohen.com**
+- 📫 How to reach me **mandel.cohen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
